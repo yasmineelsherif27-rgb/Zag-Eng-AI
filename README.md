@@ -3,7 +3,7 @@
 ## 📌 Project Idea
 #“This project is developed by a team.
 #Each member is responsible for specific modules.”
-خهننمmple console-based application similar to Ask.fm. Users can sign up, log in, ask questions (anonymous or not), answer questions, and view feeds. The project is built using Python and Object-Oriented Programming (OOP) with file-based storage instead of a database.
+ console-based application similar to Ask.fm. Users can sign up, log in, ask questions (anonymous or not), answer questions, and view feeds. The project is built using Python and Object-Oriented Programming (OOP) with file-based storage instead of a database.
 
 ---
 
